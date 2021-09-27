@@ -1,7 +1,7 @@
-Git clone https://github.com/matiasizzo/PortalVR.git  /
+Git clone https://github.com/matiasizzo/PortalVR.git  
 
-cd PortalVR /
+cd PortalVR 
 
-npm install /
+npm install 
 
-npm start   /
+npm start   
